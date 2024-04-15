@@ -1,0 +1,9 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore VSCode settings
+.vscode/
+
+config.json
+
+.vs/**
