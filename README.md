@@ -1,1 +1,2 @@
-# MewBot
+# EllieBot
+a discord bot
